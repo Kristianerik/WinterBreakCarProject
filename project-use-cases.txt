@@ -1,0 +1,7 @@
+Car Project
+
+Use Cases:
+1. Navigate room without being stopped by obstacles
+2. Outline room, going tight around obstacles when necessary
+3. Draw X in room, find corners then go opposite
+
