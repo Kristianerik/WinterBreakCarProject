@@ -1,0 +1,4 @@
+{
+    "sketch": "autonomous.ino",
+    "board": "arduino:avr:unowifi"
+}
